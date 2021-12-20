@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "list": "cpp",
+        "*.tcc": "c",
+        "exception": "c",
+        "mutex": "c",
+        "thread": "c",
+        "vector": "c",
+        "iostream": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "functional": "c",
+        "numeric": "c",
+        "ratio": "c",
+        "memory": "c",
+        "iterator": "c",
+        "regex": "c",
+        "random": "cpp"
+    }
+}
